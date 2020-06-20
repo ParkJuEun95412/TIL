@@ -10,4 +10,4 @@
 - 
 
 ### project
-- [아파트 실거래가 예측](https://github.com/ParkJuEun95412/-Apartment_price_prediction/).
+- [아파트 실거래가 예측](https://github.com/ParkJuEun95412/-Apartment_price_prediction/)
