@@ -3,7 +3,7 @@
 
 
 ### Java
-- [recursion](https://github.com/ParkJuEun95412/Java/blob/master/recursion.java/)
+- [recursion 20/6/22](https://github.com/ParkJuEun95412/Java/blob/master/recursion.java/)
 
 ### project
 - [아파트 실거래가 예측(apartment_price_prediction](https://github.com/ParkJuEun95412/-Apartment_price_prediction/)
