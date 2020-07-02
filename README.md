@@ -10,4 +10,4 @@
 - [성매개 감염병 예측(STD_Cause_Analysis)](https://github.com/ParkJuEun95412/STD_Cause_Analysis)
 - [퍼스널컬러진단(personal_color_Classification)](https://github.com/ParkJuEun95412/PersonalColor_Classification)
 ## DataModeling
-- [
+- [sql 기본](https://github.com/ParkJuEun95412/DataBase/blob/3bab2a204af4eaed5cc239f2581e44d115612aba/sql(0702).sql)
